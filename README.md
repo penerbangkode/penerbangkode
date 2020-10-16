@@ -1,5 +1,10 @@
-### Hi there 👋
+## Rido Mulanda ~ @penerbangkode ✈️
+Hi Dev! 👋, I'am web developer based in Indonesia. Nice to meet you!
 
+- 📫 Get in Touch : 
+   - instagram : [@penerbangkode](https://www.instagram.com/penerbangkode/)
+   - Email : ridomulanda@gmail.com
+   - Website : [mulanda.dev](https://www.mulanda.dev/)
 <!--
 **penerbangkode/penerbangkode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
